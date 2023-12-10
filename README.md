@@ -9,11 +9,13 @@
 - And a [another peace of shit](https://i.dell.com/sites/csdocuments/Shared-Content_data-Sheets_Documents/en/uk/dell_latitude_e6430s_spec_sheet.pdf) as my Server
 
 
-## Some random facts about me:
+## Some random fact:
 - Have a server that both went [private](http://10.147.20.120) and [public](https://casa.new-panda-29.telebit.io)[.](https://www.youtube.com/watch?v=uHgt8giw1LY)
 - Use [StackEdit](https://stackedit.io) to edit this.
 - Because [Discord](https://discord.com) won't fit this I need to post this on [GitHub](https://github.com) lol :)
-- Moved this to the "TheTommylongIsHeree/TheTommylongIsHeree" repo to display this on my profile.
+- Moved this to the "[TheTommylongIsHeree/TheTommylongIsHeree](https://is.gd/gtmylg)" repo to display this on my profile.
+- Went through the "process" of losing a friend while writing this
+- Can be accessed at [this](https://is.gd/gtmylg) link
 
 ## Some my social medias:
 - [GitHub](https://github.com/TheTommylongIsHeree)
