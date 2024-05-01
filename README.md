@@ -28,4 +28,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thetommylongisheree&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top languages" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thetommylongisheree&show_icons=true&locale=en&theme=dark" alt="Account info" /></p>
-[WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
