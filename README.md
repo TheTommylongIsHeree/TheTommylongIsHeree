@@ -1,5 +1,6 @@
   
 <h1 align="center">Hi 👋, I'm Tommylong</h1>
+<a href="https://lanyard.cnrad.dev/api/881389907539533875" target="blank"><img src="https://lanyard.cnrad.dev/api/881389907539533875?bg=00000000&showDisplayName=true" alt="Discord Presence" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetommylongisheree&label=Profile%20views&color=0e75b6&style=flat" alt="thetommylongisheree" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thetommylong" target="blank"><img src="https://img.shields.io/twitter/follow/thetommylong?logo=twitter&style=for-the-badge" alt="thetommylong" /></a> </p>
@@ -12,7 +13,7 @@
 
 - 💬 Ask me about **Python, computer hardware and anything about OSes**
 
-- 📫 Reach me here: **q5cc6ihr@duck.com** (no spams, please)
+- 📫 Reach me here: **q5cc6ihr@duck.com** or my Discord just right up there
 
 - ⚡ Fun fact: **I don't think I have any friends, and that's why I am even here**
 
